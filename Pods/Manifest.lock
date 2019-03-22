@@ -1,0 +1,24 @@
+PODS:
+  - ActiveLabel (1.0.1)
+  - MSAutoView (3.1.0)
+  - SideMenu (5.0.3)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - MSAutoView
+  - SideMenu
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActiveLabel
+    - MSAutoView
+    - SideMenu
+
+SPEC CHECKSUMS:
+  ActiveLabel: b8b2396fe25308d563601437d6605bf691c3b5db
+  MSAutoView: 3087530f735587bc54ffc727d7c593e7027fa43f
+  SideMenu: 1dcaabce84538c53325c287f7fe62999379a641c
+
+PODFILE CHECKSUM: aa74447bb430e644ec036cb42395cf3eedce8ab5
+
+COCOAPODS: 1.5.3

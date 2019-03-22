@@ -1,20 +1,17 @@
 //
-//  ViewController.swift
+//  RegisterViewController.swift
 //  PartOnDemand
 //
 //  Created by Ty on 2/22/19.
 //  Copyright © 2019 Ty. All rights reserved.
 //
 
-
-
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
-    
+class RegisterViewController: KeyboardViewController {
+
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
     }
 }
-
